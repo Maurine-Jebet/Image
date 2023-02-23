@@ -1,0 +1,43 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("bag.jpg");
+}
+.containerA{
+    padding-right: 40px;
+    padding-left: 35px;
+    padding-top: o;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.containerA ul li{
+    display: inline-flex;
+    padding: 25px;
+    align-items: center;
+    text-decoration: none;
+}
+.containerA ul li a{
+    text-transform: inherit;
+    color: blue;
+    text-decoration: none;
+}
+.containerA button{
+    border: 15px;
+    text-align: center;
+    font-weight: bold;
+    padding: 25px 0;
+    border-radius: 90px;
+    margin: 10px 10px;
+    width: 180px;
+}
+.containerB img{
+   font-size: larger;
+    padding-right: 100px;
+ float: right;
+    width: 25%;
+    height: 20%;
+    justify-content: center;
+    padding-bottom: 100px; }
+    
+
